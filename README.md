@@ -1,4 +1,4 @@
-# ML-Project
+# ML-Project - MarX Prediction
 MarX Prediction is a machine learning–based application designed to predict student academic performance using study-related parameters. The system primarily focuses on regression modeling, a core concept of Basic Machine Learning, to estimate student marks based on the number of study hours and the mode of study.
 
 The application allows users to input data for a single student, multiple students, or upload a CSV file containing student study information. Based on the input, the system predicts expected marks, provides personalized recommendations, and presents insights through interactive visualizations.
