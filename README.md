@@ -75,6 +75,8 @@ Visualization: Matplotlib
 
 Reporting: ReportLab (PDF), OpenPyXL (Excel)
 
+Project Upload : GitHub
+
 🚀 Outcome
 
 The project successfully demonstrates how Basic Machine Learning regression techniques can be applied to a real-world educational problem. It helps students understand their study efficiency, optimize learning habits, and improve academic outcomes.
