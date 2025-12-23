@@ -7,76 +7,76 @@ The project demonstrates end-to-end ML workflow including data input, preprocess
 
 The project is based on Regression - based Prediction
 
-🎯 Key Objectives
+## 🎯 Key Objectives
 
-Predict student marks using study hours and study mode
+🔹 Predict student marks using study hours and study mode
 
-Apply regression-based logic for numerical prediction
+🔹 Apply regression-based logic for numerical prediction
 
-Provide health and productivity recommendations based on study patterns
+🔹 Provide health and productivity recommendations based on study patterns
 
-Visualize performance trends using graphs
+🔹 Visualize performance trends using graphs
 
-Allow downloading results in PDF, Excel, and JSON formats
+🔹 Allow downloading results in PDF, Excel, and JSON formats
 
-🧠 Machine Learning Concept Used
+## 🧠 Machine Learning Concept Used
 
-Type: Supervised Learning
+🔹 Type: Supervised Learning
 
-Category: Regression
+🔹 Category: Regression
 
-Target Variable: Predicted Marks
+🔹 Target Variable: Predicted Marks
 
-Input Features:
+### Input Features:
 
-Study Hours
+🔹 Study Hours
 
-Mode of Study (Normal / Intermediate / Fast)
+🔹 Mode of Study (Normal / Intermediate / Fast)
 
-📊 Features
+## 📊 Features
 
-User authentication (Register / Login)
+🔹 User authentication (Register / Login)
 
-Flexible data input:
+### Flexible data input:
 
-Single student
+🔹 Single student
 
-Two students
+🔹Two students
 
-CSV file upload
+🔹 CSV file upload
 
-Subject-wise performance prediction
+🔹 Subject-wise performance prediction
 
-Personalized recommendations (sleep, meditation, balanced study)
+🔹 Personalized recommendations (sleep, meditation, balanced study)
 
-Interactive visualizations:
+### Interactive visualizations:
 
-Bar charts (marks per subject)
+🔹 Bar charts (marks per subject)
 
-Pie charts (study hours distribution)
+🔹 Pie charts (study hours distribution)
 
-Histograms (marks distribution)
+🔹 Histograms (marks distribution)
 
-Scatter plots (study hours vs marks)
+🔹 Scatter plots (study hours vs marks)
 
-Downloadable reports in PDF, Excel, and JSON
+🔹 Downloadable reports in PDF, Excel, and JSON
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Frontend: Streamlit
+🔹 Frontend: Streamlit
 
-Backend Logic: Python
+🔹 Backend Logic: Python
 
-Machine Learning: Regression-based prediction logic
+🔹 Machine Learning: Regression-based prediction logic
 
-Data Processing: Pandas, NumPy
+🔹 Data Processing: Pandas, NumPy
 
-Visualization: Matplotlib
+🔹 Visualization: Matplotlib
 
-Reporting: ReportLab (PDF), OpenPyXL (Excel)
+🔹 Reporting: ReportLab (PDF), OpenPyXL (Excel)
 
-Project Upload : GitHub
+🔹 Versions : GitHub
 
-🚀 Outcome
+## 🚀 Outcome
 
 The project successfully demonstrates how Basic Machine Learning regression techniques can be applied to a real-world educational problem. It helps students understand their study efficiency, optimize learning habits, and improve academic outcomes.
