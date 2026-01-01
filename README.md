@@ -27,6 +27,8 @@ The project is based on Regression - based Prediction
 
 🔹 Target Variable: Predicted Marks
 
+🔹 I have explained the logic of the code in ModelExplaination.md
+
 ### Input Features:
 
 🔹 Study Hours
